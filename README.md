@@ -15,5 +15,5 @@ In the dynamic landscape of AtliQ Hardware, a leading player in computer hardwar
             
   3.**Building a Data Framework/Data Modelling**: Cultivating Relationships.Structured the data model meticulously, creating connections among diverse datasets to facilitate a smooth flow of information for comprehensive analysis.Also created a data table using power query.
   
-  4. **Leveraging Analytical Skills**-Power Pivot and DAX Expertise.Deployed the formidable capabilities of Power Pivot and DAX to formulate precise measures and calculated fields, converting intricate data into actionable insights.
+  4.**Leveraging Analytical Skills**-Power Pivot and DAX Expertise.Deployed the formidable capabilities of Power Pivot and DAX to formulate precise measures and calculated fields, converting intricate data into actionable insights.
             

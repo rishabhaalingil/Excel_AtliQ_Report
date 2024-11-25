@@ -8,6 +8,7 @@ In the dynamic landscape of AtliQ Hardware, a leading player in computer hardwar
   
   2.**Data Refinement**: Transforming Raw Information into Business Wisdom.Embarked on an exploration through the intricacies of data, leveraging Power Query's magic to purify and mold raw data, shaping detailed 
        columns that ignite strategic insights.After the data cleaning step the data was added to the power pivot.The following points were checked during this step:
+       
              1.Ensure there no missing values.
              2.Ensure all dimension columns contain a unique column.
              3.Ensure there no errors/# na in columns.

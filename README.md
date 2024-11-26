@@ -45,13 +45,13 @@ Through the completion of this project, I gained valuable insights and developed
 
  ## Technical Skills
 
-   - **Data Processing and Transformation**: By applying the ETL (Extract, Transform, Load) process, I was able to ensure efficient and consistent data processing, significantly enhancing the speed and accuracy of the project workflow.
+   1. **Data Processing and Transformation**: By applying the ETL (Extract, Transform, Load) process, I was able to ensure efficient and consistent data processing, significantly enhancing the speed and accuracy of the project workflow.
      
-   - **Power Query Mastery**: A key component of my work involved generating a comprehensive date table within Power Query, which facilitated the accurate categorization of fiscal months, quarters, and years, enabling time-based analysis.Power Query’s transformation features were pivotal in cleaning and reshaping the data, ensuring that it was ready for in-depth analysis by removing inconsistencies and organizing the information appropriately.
+   2. **Power Query Mastery**: A key component of my work involved generating a comprehensive date table within Power Query, which facilitated the accurate categorization of fiscal months, quarters, and years, enabling time-based analysis.Power Query’s transformation features were pivotal in cleaning and reshaping the data, ensuring that it was ready for in-depth analysis by removing inconsistencies and organizing the information appropriately.
      
-   - **Power Pivot and Data Modeling**:I leveraged Power Pivot to establish key relationships between various data tables, which created a cohesive and interconnected data model, enabling more complex and insightful analysis.I enhanced the dataset by incorporating additional relevant data, which enriched the overall analysis and provided a more complete view of the business context.
+   3. **Power Pivot and Data Modeling**:I leveraged Power Pivot to establish key relationships between various data tables, which created a cohesive and interconnected data model, enabling more complex and insightful analysis.I enhanced the dataset by incorporating additional relevant data, which enriched the overall analysis and provided a more complete view of the business context.
      
-   - **Advanced Analytics with DAX**: DAX enabled me to create custom calculated columns and measures that were essential for generating advanced metrics and key performance indicators (KPIs), which provided deeper insights.Using DAX formulas, I was able to implement dynamic calculations that adjusted based on user input, allowing for more flexible and responsive data analysis across different dimensions.
+   4. **Advanced Analytics with DAX**: DAX enabled me to create custom calculated columns and measures that were essential for generating advanced metrics and key performance indicators (KPIs), which provided deeper insights.Using DAX formulas, I was able to implement dynamic calculations that adjusted based on user input, allowing for more flexible and responsive data analysis across different dimensions.
 
 ## Soft Skills
 

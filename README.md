@@ -27,18 +27,18 @@ This project mainly contains:
 ## Sales Report 
    
     1. Customer Behavior Exploration:
-            - Generated a comprehensive report uncovering customer trends, laying the groundwork for targeted strategies and service enhancements.
+        - Generated a comprehensive report uncovering customer trends, laying the groundwork for targeted strategies and service enhancements.
     2. Market Performance Evaluation:
-            - Conducted an in-depth analysis of market performance against set targets, pinpointing areas for refinement and strategic enhancement.
+        - Conducted an in-depth analysis of market performance against set targets, pinpointing areas for refinement and strategic enhancement.
     3. Recognizing Top Achievers:
-            - Identified and highlighted the Top 10 performing products, providing valuable insights for agile inventory management and focused marketing efforts. 
+        - Identified and highlighted the Top 10 performing products, providing valuable insights for agile inventory management and focused marketing efforts. 
 
 ## Finance Report
    
     1. Elaborate Profit and Loss Reports:
-            - Crafted detailed Profit and Loss (P&L) reports, offering a nuanced view of fiscal health across different Fiscal Years and Months.
+        - Crafted detailed Profit and Loss (P&L) reports, offering a nuanced view of fiscal health across different Fiscal Years and Months.
     2. Profitability Analysis by Quarters:
-            - Delved into profitability intricacies, analyzing Gross Margin Percentage (GM%) by quarters (subzone), providing actionable insights into financial nuances.
+        - Delved into profitability intricacies, analyzing Gross Margin Percentage (GM%) by quarters (subzone), providing actionable insights into financial nuances.
 
 # Key Skills Earned
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
@@ -46,8 +46,11 @@ Through the completion of this project, I gained valuable insights and developed
  ## Technical Skills
 
    - **Data Processing and Transformation**: By applying the ETL (Extract, Transform, Load) process, I was able to ensure efficient and consistent data processing, significantly enhancing the speed and accuracy of the project workflow.
+     
    - **Power Query Mastery**: A key component of my work involved generating a comprehensive date table within Power Query, which facilitated the accurate categorization of fiscal months, quarters, and years, enabling time-based analysis.Power Query’s transformation features were pivotal in cleaning and reshaping the data, ensuring that it was ready for in-depth analysis by removing inconsistencies and organizing the information appropriately.
+     
    - **Power Pivot and Data Modeling**:I leveraged Power Pivot to establish key relationships between various data tables, which created a cohesive and interconnected data model, enabling more complex and insightful analysis.I enhanced the dataset by incorporating additional relevant data, which enriched the overall analysis and provided a more complete view of the business context.
+     
    - **Advanced Analytics with DAX**: DAX enabled me to create custom calculated columns and measures that were essential for generating advanced metrics and key performance indicators (KPIs), which provided deeper insights.Using DAX formulas, I was able to implement dynamic calculations that adjusted based on user input, allowing for more flexible and responsive data analysis across different dimensions.
 
 ## Soft Skills

@@ -59,35 +59,36 @@ Through the completion of this project, I gained valuable insights and developed
 
 ## Soft Skills
 
-1.**Report Design and User Experience**
+1. **Report Design and User Experience**
 
-  I.**Empathy-Driven Report Design**:  
-          Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
+   I. **Empathy-Driven Report Design**:  
+      Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
 
    II. **Visual Communication**:  
-     I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.
+      I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.
 
    III. **Interactive Features for User Customization**:  
-     I incorporated interactive features such as slicers and filters, allowing users to tailor the report view to their specific requirements, improving the overall user experience.
+      I incorporated interactive features such as slicers and filters, allowing users to tailor the report view to their specific requirements, improving the overall user experience.
 
-2.**Optimization Techniques**
+2. **Optimization Techniques**
 
-   1. **Optimizing Report Performance**:  
-       I employed various optimization strategies, such as simplifying queries and minimizing complex calculations, to improve report performance and ensure faster data processing and load times.
+   I. **Optimizing Report Performance**:  
+      I employed various optimization strategies, such as simplifying queries and minimizing complex calculations, to improve report performance and ensure faster data processing and load times.
 
-   2. **Improved Report Generation Speed**:  
-       By refining the underlying data models and optimizing queries, I was able to significantly reduce the time it takes to generate reports, ensuring that insights could be delivered promptly.
+   II. **Improved Report Generation Speed**:  
+      By refining the underlying data models and optimizing queries, I was able to significantly reduce the time it takes to generate reports, ensuring that insights could be delivered promptly.
 
-3.**Systematic Approach to Report Building**
+3. **Systematic Approach to Report Building**
 
-   1. **Organized Report Development**:  
-    I followed a structured, methodical approach in building the reports, ensuring each phase, from data acquisition to final deployment, was carefully planned and executed.
+   I. **Organized Report Development**:  
+      I followed a structured, methodical approach in building the reports, ensuring each phase, from data acquisition to final deployment, was carefully planned and executed.
 
-   2. **Iterative Report Enhancement**:  
-       Throughout the project, I embraced an iterative development process that allowed me to continuously improve and refine the reports, ultimately delivering a polished final product.
+   II. **Iterative Report Enhancement**:  
+      Throughout the project, I embraced an iterative development process that allowed me to continuously improve and refine the reports, ultimately delivering a polished final product.
 
-   3. **Effective Documentation and Stakeholder Communication**:  
-       Regular communication and thorough documentation played a key role in ensuring alignment with stakeholders, ensuring that the project progressed smoothly and met their expectations.
+   III. **Effective Documentation and Stakeholder Communication**:  
+      Regular communication and thorough documentation played a key role in ensuring alignment with stakeholders, ensuring that the project progressed smoothly and met their expectations.
+
 
   
 

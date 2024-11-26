@@ -89,3 +89,5 @@ Through the completion of this project, I gained valuable insights and developed
    3. **Effective Documentation and Stakeholder Communication**:  
        Regular communication and thorough documentation played a key role in ensuring alignment with stakeholders, ensuring that the project progressed smoothly and met their expectations.
 
+   4. **Strategic Thinking**: Aligned financial planning with strategic goals, contributing to a comprehensive understanding of organizational financial outlook.
+

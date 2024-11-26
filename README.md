@@ -80,8 +80,8 @@ Through the completion of this project, I gained valuable insights and developed
 
 3.**Systematic Approach to Report Building**
 
-  1.**Organized Report Development**:  
-       I followed a structured, methodical approach in building the reports, ensuring each phase, from data acquisition to final deployment, was carefully planned and executed.
+  1.  **Organized Report Development**:  
+    I followed a structured, methodical approach in building the reports, ensuring each phase, from data acquisition to final deployment, was carefully planned and executed.
 
   2. **Iterative Report Enhancement**:  
        Throughout the project, I embraced an iterative development process that allowed me to continuously improve and refine the reports, ultimately delivering a polished final product.

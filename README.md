@@ -61,8 +61,8 @@ Through the completion of this project, I gained valuable insights and developed
 
 1.**Report Design and User Experience**
 
-   1.**Empathy-Driven Report Design**:  
-     Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
+  1. **Empathy-Driven Report Design**:  
+      Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
 
    2. **Visual Communication**:  
      I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.

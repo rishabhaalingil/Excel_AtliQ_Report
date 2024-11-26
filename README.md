@@ -24,21 +24,25 @@ The following points were checked during this step:
 # Key Features
 This project mainly contains:
 
-## Sales Report 
-   
-    1. Customer Behavior Exploration:
-        - Generated a comprehensive report uncovering customer trends, laying the groundwork for targeted strategies and service enhancements.
-    2. Market Performance Evaluation:
-        - Conducted an in-depth analysis of market performance against set targets, pinpointing areas for refinement and strategic enhancement.
-    3. Recognizing Top Achievers:
-        - Identified and highlighted the Top 10 performing products, providing valuable insights for agile inventory management and focused marketing efforts. 
+## Sales Report
+
+1. **Customer Behavior Exploration**:
+   - Generated a comprehensive report uncovering customer trends, laying the groundwork for targeted strategies and service enhancements.
+
+2. **Market Performance Evaluation**:
+   - Conducted an in-depth analysis of market performance against set targets, pinpointing areas for refinement and strategic enhancement.
+
+3. **Recognizing Top Achievers**:
+   - Identified and highlighted the Top 10 performing products, providing valuable insights for agile inventory management and focused marketing efforts.
 
 ## Finance Report
-   
-    1. Elaborate Profit and Loss Reports:
-        - Crafted detailed Profit and Loss (P&L) reports, offering a nuanced view of fiscal health across different Fiscal Years and Months.
-    2. Profitability Analysis by Quarters:
-        - Delved into profitability intricacies, analyzing Gross Margin Percentage (GM%) by quarters (subzone), providing actionable insights into financial nuances.
+
+1. **Elaborate Profit and Loss Reports**:
+   - Crafted detailed Profit and Loss (P&L) reports, offering a nuanced view of fiscal health across different Fiscal Years and Months.
+
+2. **Profitability Analysis by Quarters**:
+   - Delved into profitability intricacies, analyzing Gross Margin Percentage (GM%) by quarters (subzone), providing actionable insights into financial nuances.
+
 
 # Key Skills Earned
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:

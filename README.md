@@ -61,8 +61,8 @@ Through the completion of this project, I gained valuable insights and developed
 
 1.**Report Design and User Experience**
 
-   I. **Empathy-Driven Report Design**:  
-      Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
+  I.**Empathy-Driven Report Design**:  
+          Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
 
    II. **Visual Communication**:  
      I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.
@@ -73,10 +73,10 @@ Through the completion of this project, I gained valuable insights and developed
 2.**Optimization Techniques**
 
    1. **Optimizing Report Performance**:  
-     I employed various optimization strategies, such as simplifying queries and minimizing complex calculations, to improve report performance and ensure faster data processing and load times.
+       I employed various optimization strategies, such as simplifying queries and minimizing complex calculations, to improve report performance and ensure faster data processing and load times.
 
    2. **Improved Report Generation Speed**:  
-     By refining the underlying data models and optimizing queries, I was able to significantly reduce the time it takes to generate reports, ensuring that insights could be delivered promptly.
+       By refining the underlying data models and optimizing queries, I was able to significantly reduce the time it takes to generate reports, ensuring that insights could be delivered promptly.
 
 3.**Systematic Approach to Report Building**
 

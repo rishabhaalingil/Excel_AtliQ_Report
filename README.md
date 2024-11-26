@@ -22,9 +22,10 @@ The following points were checked during this step:
 4.**Leveraging Analytical Skills**-Power Pivot and DAX Expertise.Deployed the formidable capabilities of Power Pivot and DAX to formulate precise measures and calculated fields, converting intricate data into actionable insights.
 
 # Key Features
-This project mainly contains
+This project mainly contains:
 
 ## Sales Report 
+   
     1. Customer Behavior Exploration:
             - Generated a comprehensive report uncovering customer trends, laying the groundwork for targeted strategies and service enhancements.
     2. Market Performance Evaluation:
@@ -33,6 +34,7 @@ This project mainly contains
             - Identified and highlighted the Top 10 performing products, providing valuable insights for agile inventory management and focused marketing efforts. 
 
 ## Finance Report
+   
     1. Elaborate Profit and Loss Reports:
             - Crafted detailed Profit and Loss (P&L) reports, offering a nuanced view of fiscal health across different Fiscal Years and Months.
     2. Profitability Analysis by Quarters:
@@ -52,9 +54,9 @@ Through the completion of this project, I gained valuable insights and developed
 
    - **Report Design and User Experience**:
      
-              1.Empathy-Driven Report Design: Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
-              2.Visual Communication: I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.
-              3.Interactive Features for User Customization: I incorporated interactive features such as slicers and filters, allowing users to tailor the report view to their specific requirements, improving the overall user experience.
+         1.Empathy-Driven Report Design: Throughout the design process, I focused on creating user-centric reports that catered to the needs and preferences of the audience, ensuring the output was both clear and actionable.
+         2.Visual Communication: I paid special attention to visual design, organizing the data in ways that made it intuitive for users to interpret key insights quickly and effectively.
+         3.Interactive Features for User Customization: I incorporated interactive features such as slicers and filters, allowing users to tailor the report view to their specific requirements, improving the overall user experience.
 
   
   - **Optimization Techniques**:
